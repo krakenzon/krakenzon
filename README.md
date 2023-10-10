@@ -16,7 +16,7 @@
 <img
   align="right"
   height="150"
-  src="https://i.pinimg.com/originals/c2/d6/42/c2d642bd7e05b705835550733cc1709d.gif"
+  src="https://avatars.githubusercontent.com/u/95699471?v=4"
 />
 
 <div align="center">
@@ -47,3 +47,5 @@
     alt="discord logo"
   />
 </div>
+
+<br clear="both" />

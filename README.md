@@ -47,5 +47,3 @@
     alt="discord logo"
   />
 </div>
-
-<br clear="both" />

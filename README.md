@@ -22,11 +22,6 @@
   height="150"
   src="https://i.pinimg.com/originals/c2/d6/42/c2d642bd7e05b705835550733cc1709d.gif"
 />
-<style>
-  img {
-    border-radius: 20px;
-  }
-</style>
 
 ###
 

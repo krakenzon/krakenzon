@@ -16,7 +16,7 @@
 <img
   align="right"
   height="150"
-  src="https://i.pinimg.com/originals/c2/d6/42/c2d642bd7e05b705835550733cc1709d.gif"
+  src="https://i.pinimg.com/originals/4a/14/7a/4a147aded35fe09965f1870a30504c60.gif"
 />
 
 <div align="center">
